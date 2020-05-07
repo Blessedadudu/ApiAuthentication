@@ -1,6 +1,3 @@
-# ReachCharts App
-
-Using react-chartjs-2 in a project
 
 ## Install Dependencies
 ```bash
