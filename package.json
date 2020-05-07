@@ -1,0 +1,23 @@
+{
+  "name": "reactcharts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bitcoinaverage": "^1.4.2",
+    "chart.js": "^2.6.0",
+    "cors": "^2.8.5",
+    "react": "^15.6.1",
+    "react-chartjs-2": "^2.1.0",
+    "react-dom": "^15.6.1",
+    "recharts": "^1.8.5"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
